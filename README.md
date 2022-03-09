@@ -1,2 +1,2 @@
-# repository_fotografico
-alcune foto di Dublino modificato in development branch
+Alcune foto di Dublino che aggiungero' in queste directories
+
